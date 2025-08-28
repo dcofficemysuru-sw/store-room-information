@@ -1,7 +1,7 @@
 {
   "name": "store-room-information",
   "version": "0.1.0",
-  "homepage": "https://ullas9525.github.io/store-room-information",
+  "homepage": "https://dcofficemysuru-sw.github.io/store-room-information",
   "private": true,
   "dependencies": {
     "@testing-library/dom": "^10.4.1",
