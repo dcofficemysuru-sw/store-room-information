@@ -9,13 +9,15 @@ import { getFirestore, doc, getDoc, collection, addDoc, onSnapshot, serverTimest
 // This is your Firebase project's configuration object.
 // It contains the keys and identifiers for your app to connect to Firebase.
 const firebaseConfig = {
-  apiKey: "AIzaSyC-6LQ_kbUb65XlHGSpAAbYJi9Z3IpL-gc",
-  authDomain: "store-material-informations.firebaseapp.com",
-  projectId: "store-material-informations",
-  storageBucket: "store-material-informations.appspot.com",
-  messagingSenderId: "63839882237",
-  appId: "1:63839882237:web:22f9885194b56067466794"
+  apiKey: "AIzaSyAAo5Pz5EVVexUxUy3TOY08BG2ieV72RU4",
+  authDomain: "store-room-information.firebaseapp.com",
+  projectId: "store-room-information",
+  storageBucket: "store-room-information.firebasestorage.app",
+  messagingSenderId: "161322471803",
+  appId: "1:161322471803:web:7cca31385a01fcd398edde",
+  measurementId: "G-TSS4RLVXVM"
 };
+
 
 
 // Initialize the Firebase app with the provided configuration. This is the entry point for using Firebase services.
