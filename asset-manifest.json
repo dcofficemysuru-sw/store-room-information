@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/store-room-information/static/css/main.65c5d714.css",
+    "main.js": "/store-room-information/static/js/main.e30d1653.js",
+    "static/js/453.f9b954cf.chunk.js": "/store-room-information/static/js/453.f9b954cf.chunk.js",
+    "index.html": "/store-room-information/index.html",
+    "main.65c5d714.css.map": "/store-room-information/static/css/main.65c5d714.css.map",
+    "main.e30d1653.js.map": "/store-room-information/static/js/main.e30d1653.js.map",
+    "453.f9b954cf.chunk.js.map": "/store-room-information/static/js/453.f9b954cf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.65c5d714.css",
+    "static/js/main.e30d1653.js"
+  ]
+}
